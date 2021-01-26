@@ -1,14 +1,9 @@
 {
   "list": [
     {
-      "name":"Hugo",
-      "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
-    },
-    {
-      "name":"Hugo Themes",
-      "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"A curated directory of Hugo themes"
+      "name":"KaziBot",
+      "url":"https://bitbucket.org/artsim/kazibot_telegram_bot/src/master/",
+      "desc":"Job hunting telegram chatbot. No longer active"
     }
   ]
 }
